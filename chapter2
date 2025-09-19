@@ -1,0 +1,24 @@
+# Chapter 2
+
+class Battery{
+  public:
+    double battery = 10.0
+
+  def Battery(){
+  cout << "Battery has "<< battery << "% Remaining."
+  
+  }};
+
+def main(){
+
+  cout << "The screen dimmed to save power as the battery went low, the computer beginning to run slower and slower." << endl;
+
+  cout << "A call was made, how much battery was left for this story to run? << endl;
+
+  Battery bat();
+  cout << bat.Battery << endl;
+
+  cout << "And thats barely any time for a good story. << endl;
+
+
+  
